@@ -2,7 +2,7 @@
 
 A clean, responsive **Todo List application** built with **React**, designed to help you manage daily tasks with style. It features dark/light mode, smart filtering, due-date tracking, and real-time progress visualization — all wrapped in a sleek, modern UI.
 
-![TodoList App Preview](./Screenshot_5.png)
+![TodoList App Preview](./assets/Screenshot_5.png)
 
 ---
 
